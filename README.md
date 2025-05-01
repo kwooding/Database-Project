@@ -1,0 +1,1 @@
+This is a database project which takes a manually created database for a bank, which is uploaded via the Xampp application. There are php files which set up the web application, which includes a homepage and multiple tools that a user of the site can use to navigate through the bank database and add new entries if authenticated.
